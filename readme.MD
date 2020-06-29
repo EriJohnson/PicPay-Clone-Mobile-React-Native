@@ -23,4 +23,4 @@
 
 ### Próximos desafios
 
-- Implementar o restantes das telas: "Pagar", "Notificações", "Configurções".
+- Implementar o restante das telas: "Pagar", "Notificações", "Configurações".
