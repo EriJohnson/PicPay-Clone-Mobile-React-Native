@@ -20,3 +20,7 @@
 
 - https://youtu.be/0CraBZHejKI
 - https://www.instagram.com/imateus.silva/;
+
+### Próximos desafios
+
+- Implementar o restantes das telas: "Pagar", "Notificações", "Configurções".
